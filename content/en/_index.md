@@ -1,4 +1,9 @@
-# go-macos
+---
+title: "Overview"
+weight: 10
+---
+
+# go-macos {#go-macos}
 
 The macOS foundation, all of it CGO-free through purego: the shared Objective-C runtime bridge, real AppKit controls embedded in a Go-painted window, Keychain and Touch ID, notifications and menu-bar items, accessibility, global hotkeys, login items and launch agents, IOKit HID, DiskArbitration, hardware audio and video decode, ScreenCaptureKit capture, and virtual displays the desktop extends onto.
 
@@ -6,16 +11,16 @@ Part of the **Desktop & widgets** family of the
 [pure-Go ecosystem](https://go-desktop.github.io/) — 30 modules,
 all `CGO_ENABLED=0`.
 
-## What is here
+## What is here {#what-is-here}
 
 This site is the organisation's reference index: what each module is, and where its
 API documentation lives. The API itself is generated from the source and served by
 [pkg.go.dev](https://pkg.go.dev/), which is always current with the released tags —
 duplicating it here would only create a second copy to go stale.
 
-- **[Modules](modules.md)** — every module in go-macos, with its source and its reference.
+- **[Modules]({{< relref "modules.md" >}})** — every module in go-macos, with its source and its reference.
 
-## What every module here is held to
+## What every module here is held to {#what-every-module-here-is-held-to}
 
 - `CGO_ENABLED=0`: no cgo, and no shelling out to a command-line tool in place of a
   library.

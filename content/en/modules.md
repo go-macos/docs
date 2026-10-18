@@ -1,4 +1,9 @@
-# Modules
+---
+title: "Modules"
+weight: 20
+---
+
+# Modules {#modules}
 
 The 30 modules of **go-macos**. Each links to its source and to
 its generated API reference.
