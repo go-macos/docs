@@ -36,6 +36,7 @@ its generated API reference.
 | [`pointer`](https://github.com/go-macos/pointer) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/pointer) |
 | [`screencapture`](https://github.com/go-macos/screencapture) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/screencapture) |
 | [`servicemanagement`](https://github.com/go-macos/servicemanagement) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/servicemanagement) |
+| [`sessionwatch`](https://github.com/go-macos/sessionwatch) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/sessionwatch) |
 | [`statusitem`](https://github.com/go-macos/statusitem) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/statusitem) |
 | [`usernotifications`](https://github.com/go-macos/usernotifications) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/usernotifications) |
 | [`videotoolbox`](https://github.com/go-macos/videotoolbox) | [pkg.go.dev](https://pkg.go.dev/github.com/go-macos/videotoolbox) |
